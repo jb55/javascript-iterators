@@ -1,5 +1,4 @@
-
-# lazy-generator
+# functional generators
 
 Some modules for lazy functional programming in javascript with generators
 
