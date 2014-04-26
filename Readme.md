@@ -1,6 +1,6 @@
-# functional generators
+# generators
 
-Some modules for lazy functional programming in javascript with generators
+A registry of javascript generators
 
-## [Goto the Registry](https://github.com/jb55/lazy-generator/wiki/Registry)
+## [Goto the Registry](https://github.com/jb55/generators/wiki/Registry)
 
